@@ -58,7 +58,7 @@ $ docker-compose build
 $ docker-compose up -d --scale spark-worker=3
 ```
 
-4. Acesse: http://localhost:8888 
+4. Acesse: http://localhost:9999 
 
 ## 📝 Licença
 
